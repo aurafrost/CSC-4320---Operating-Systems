@@ -1,0 +1,1 @@
+cmd_/home/jimmy/Documents/project1part2/simple-solution.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jimmy/Documents/project1part2/simple-solution.ko /home/jimmy/Documents/project1part2/simple-solution.o /home/jimmy/Documents/project1part2/simple-solution.mod.o ;  true
